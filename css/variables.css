@@ -1,0 +1,11 @@
+/* Placeholder Values */
+
+:root {
+--color-primary: #222222;
+--color-bg: #ffffff;
+--color-text: #222222;
+--font-main: system-ui, sans-serif;
+--space-s: 0.5rem;
+--space-m: 1rem;
+--space-l: 2rem;
+}
